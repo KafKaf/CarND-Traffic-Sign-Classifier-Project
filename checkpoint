@@ -1,0 +1,2 @@
+model_checkpoint_path: "kafkafnet"
+all_model_checkpoint_paths: "kafkafnet"
